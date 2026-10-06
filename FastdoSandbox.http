@@ -1,0 +1,6 @@
+@FastdoSandbox_HostAddress = http://localhost:5159
+
+GET {{FastdoSandbox_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
